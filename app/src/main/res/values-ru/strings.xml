@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AuffCardHolder</string>
+    <string name="search">Поиск</string>
+    <string name="all_cards">Все карточки</string>
+    <string name="pinned">Закрепленные</string>
+    <string name="others">Другие</string>
+    <string name="search_cards">Искать карту</string>
+    <string name="image_from_card">Изображение для карты</string>
+    <string name="edit_card">Редактировать карту</string>
+    <string name="add_photo_from_gallery">Добавить фото из галлереи</string>
+    <string name="delete_card">Удалить карту</string>
+    <string name="back">Назад</string>
+    <string name="title">Заголовок</string>
+    <string name="save_card">Сохранить карту</string>
+    <string name="note_something_down">Напишите что нибудь</string>
+    <string name="create_card">Создать карту</string>
+    <string name="just_now">Недавно</string>
+</resources>

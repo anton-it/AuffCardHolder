@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AuffCardHolder</string>
+    <string name="search">Search...</string>
+    <string name="all_cards">All Cards</string>
+    <string name="pinned">Pinned</string>
+    <string name="others">Others</string>
+    <string name="search_cards">Search Cards</string>
+    <string name="image_from_card">Image from card</string>
+    <string name="edit_card">Edit card</string>
+    <string name="add_photo_from_gallery">Add photo from gallery</string>
+    <string name="delete_card">Delete card</string>
+    <string name="back">Back</string>
+    <string name="title">Title</string>
+    <string name="save_card">Save card</string>
+    <string name="note_something_down">Note something down</string>
+    <string name="create_card">Create card</string>
+    <string name="just_now">Just now</string>
+    <string name="h_ago">%1$s h ago</string>
+</resources>
