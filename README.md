@@ -1,4 +1,4 @@
-# Auff Сфкв Рщдвук
+# Auff Card Holder
 
 ## Задумывалось как приложение для хранение скидочных карт а столо приложение с заметками. 
 
@@ -19,6 +19,6 @@
 ## Прочее:
 
 
-## Auff News
+## Auff Card Holder
 ![](https://i.ibb.co/WpD5pnmF/Screenshot1.jpg) ![](https://i.ibb.co/Vc27g0mK/Screenshot2.jpg)
 ![](https://i.ibb.co/5W7QcMck/Screenshot3.jpg) ![](https://i.ibb.co/jZQpBM8g/Screenshot4.jpg)
