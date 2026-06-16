@@ -25,7 +25,7 @@
 [Скачать APK](https://drive.google.com/file/d/1RMMWpfvIyZX6PVqIna6UYELk8j6AFy-I/view?usp=sharing)
 
 
-## 📸 Скриншоты
+## Скриншоты
 
 ### Splash screen
 
